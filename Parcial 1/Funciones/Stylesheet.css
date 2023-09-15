@@ -11,5 +11,24 @@
     border: 1px solid black;
     float: left;
     margin: 10px;
+    transition: all .7s ease;
+    font-size: 20px;
 }
 
+
+#Caja1:hover{
+    transition: all .7s ease;
+    font-size: 20px;
+    color: azure;
+    transform: rotate(50deg);
+}
+
+#Caja2:hover{
+    transition: all .7s ease;
+    font-size: 60px;
+}
+
+#Caja3:hover{
+    transition: all .7s ease;
+    transform: translateY(45vw);
+}
